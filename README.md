@@ -1,2 +1,2 @@
 # hello-world
-demo
+demo written to understand Angular.js
